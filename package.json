@@ -1,0 +1,31 @@
+{
+  "name": "vutimoji",
+  "version": "1.0.0",
+  "description": "Mix VueJS 2.x and Twitter emoji library together",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyfree/vutimoji.git"
+  },
+  "keywords": [
+    "emoji",
+    "twiter",
+    "emoji",
+    "vuejs"
+  ],
+  "author": "crazyfree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazyfree/vutimoji/issues"
+  },
+  "homepage": "https://github.com/crazyfree/vutimoji#readme",
+  "dependencies": {
+    "twemoji": "^11.3.0"
+  },
+  "peerDependencies": {
+    "vue": ">= 2.0.0"
+  }
+}
