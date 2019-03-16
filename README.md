@@ -45,7 +45,7 @@ methods:{
 No options is available now, request if you want
 
 ### Demo
-Please clone project and run `npm run dev` and see files in `test` folder
+Please clone project and `npm run dev` and then run `index.html` in test folder
 
 
 ### License
