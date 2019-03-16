@@ -1,6 +1,6 @@
 ## Who am i?
 I am a plugin that integrate twitter emoji library with VueJS 2.x. 
-I made it because i like to. 
+I made it because i can't found an up to date version on internet. 
 
 ## How to install ?
 
@@ -15,9 +15,6 @@ import vuetwemoji from 'vue-twemoji'
 
 Vue.use(vuetwemoji, [options])
 ```
-
-### Available options
-
 
 ```
 <template>
@@ -44,4 +41,14 @@ methods:{
 </script>
 ```
 
-Example: <update later>
+### Available options
+No options is available now, request if you want
+
+### Demo
+Please clone project and run `npm run dev` and see files in `test` folder
+
+
+### License
+MIT
+
+
