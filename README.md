@@ -30,11 +30,8 @@ data(){
   }
 },
 methods:{
-  parseEmoji: function (string) {
-    let self = this
-    this.outHtml = this.$twemoji.parse(string, function (emoji, options) {
-      return options.base + emoji + options.extension
-    })
+  parseEmoji: function (string) {    
+    this.outHtml = this.$vutimoji.parse(string)
   }
 }
 ...
