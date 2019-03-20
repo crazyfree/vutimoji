@@ -1,6 +1,6 @@
 {
   "name": "vutimoji",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Mix VueJS 2.x and Twitter emoji library together",
   "main": "dist/main.js",
   "scripts": {
