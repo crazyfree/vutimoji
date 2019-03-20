@@ -11,9 +11,9 @@ npm i vutimoji
 ## Usage
 
 ```
-import vuetwemoji from 'vue-twemoji'
+import vutimoji from 'vutimoji'
 
-Vue.use(vuetwemoji, [options])
+Vue.use(vutimoji)
 ```
 
 ```
